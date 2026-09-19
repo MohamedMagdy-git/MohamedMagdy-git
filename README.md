@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [mohamedmagdy.surge.sh](mohamedmagdy.surge.sh)
 
-- 📫 How to reach me **mohamedmagdysaid1@gmail.com**
+- 📫 How to reach me **mohamedmagdysaidd@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RZ8NPRLs24XIt92_Vb4qiNtzL_QuKd2w/view?usp=sharing](https://drive.google.com/file/d/1RZ8NPRLs24XIt92_Vb4qiNtzL_QuKd2w/view?usp=sharing)
 
