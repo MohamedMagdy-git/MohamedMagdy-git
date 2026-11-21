@@ -1,13 +1,21 @@
-<h1 align="center">Hi 👋, I'm Mohamed Magdy</h1>
-<h3 align="center">MERN Stack developer</h3>
+<h1 align="left">Hi 👋, I'm Mohamed Magdy</h1>
+<h3 align="left">Senior Full-Stack Developer | React, Next.js & Node.js | Product Engineer</h3>
 
-- 🌱 I’m currently learning **bubble.io**
+<p align="left">
+  Full-Stack Developer with 3+ years of experience building scalable B2B SaaS platforms, analytics products, and AI-powered applications.
+</p>
 
-- 👨‍💻 All of my projects are available at [mohamedmagdy.surge.sh](mohamedmagdy.surge.sh)
+- 🏢 Currently working as a **Full-Stack Developer** at **Gensystem**
+- 📍 Based in **Sohag, Egypt**
+- 📫 Reach me at **mohamedmagdysaidd@gmail.com**
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/mohamed-magdy-dev-eg) · 🌐 [Portfolio](https://mohamedmagdy-portfolio-dev.vercel.app/)
 
-- 📫 How to reach me **mohamedmagdysaidd@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RZ8NPRLs24XIt92_Vb4qiNtzL_QuKd2w/view?usp=sharing](https://drive.google.com/file/d/1RZ8NPRLs24XIt92_Vb4qiNtzL_QuKd2w/view?usp=sharing)
+<h3 align="left">Tech Stack & Tools</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,redux,mongodb,supabase,html,css,sass,python,git,postman,figma" />
+  </a>
+</p>
 
 
 
