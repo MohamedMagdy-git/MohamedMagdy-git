@@ -6,7 +6,7 @@
 </p>
 
 - 🏢 Currently working as a **Full-Stack Developer** at **Gensystem**
-- 📍 Based in **Sohag, Egypt**
+- 📍 Based in **sharqiya, Egypt**
 - 📫 Reach me at **mohamedmagdysaidd@gmail.com**
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/mohamed-magdy-dev-eg) · 🌐 [Portfolio](https://mohamedmagdy-portfolio-dev.vercel.app/)
 
